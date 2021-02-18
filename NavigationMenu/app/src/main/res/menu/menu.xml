@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:title="Notification"
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_baseline_notifications_24"/>
+    <item
+        android:title="Design "
+        android:id="@+id/design"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+    <item
+        android:title="Settings"
+        android:id="@+id/language"
+        android:icon="@drawable/ic_baseline_settings_24">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/password"
+                android:title="Password"
+                android:icon="@drawable/ic_baseline_android_24"/>
+            <item
+                android:id="@+id/security"
+                android:title="Security"
+                android:icon="@drawable/ic_baseline_home_24"/>
+            </group>
+        </menu>
+
+    </item>
+</group>
+
+</menu>
