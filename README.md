@@ -15,4 +15,5 @@ A collection of samples:
 - [GoogleSignIn](https://firebase.google.com/docs/auth/android/google-signin)
 - [ImplicitIntentTest](ImplicitIntentTest)
 - [InputControls](https://developer.android.com/codelabs/android-training-input-controls#0)
-- 
+- [MenusPickers](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-2-user-experience/lesson-4-user-interaction/4-3-c-menus-and-pickers/4-3-c-menus-and-pickers.html)
+- [NavigationMenu](https://material.io/components/navigation-drawer)
