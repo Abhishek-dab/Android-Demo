@@ -13,4 +13,6 @@ A collection of samples:
       
 - [EmailPasswordAuthentication](https://firebase.google.com/docs/auth/android/email-link-auth)
 - [GoogleSignIn](https://firebase.google.com/docs/auth/android/google-signin)
+- [ImplicitIntentTest](ImplicitIntentTest)
+- [InputControls](https://developer.android.com/codelabs/android-training-input-controls#0)
 - 
