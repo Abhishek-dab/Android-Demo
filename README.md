@@ -28,3 +28,14 @@ A collection of samples:
      - Roll-Number,Name,Mail_Id,PhoneNumber,Password,Gender,Branch
      - If the user clicks the submit button without filling the details we display the toast message to the user.
      - After clicking the submit button it has to navigate to the DeatilsActivity, where we display that user given data.
+- ScoreBoard
+    - Handling onClick event for all buttons
+        - When your click Plus+1 Button your count will Increased by One
+        - When your click Plus_2 Button your count will Increased by Two
+         - When your click Plus_3 Button your count will Increased by Three
+         - Same Process is repeated for both Teams
+          - When your click Reset Button your both Team count will be set to Zero.
+          - Applying savedInstancestate also, when screen rotation your data will not be lose.
+ - [ShareApp](https://stackoverflow.com/questions/9948373/android-share-plain-text-using-intent-to-all-messaging-apps)
+ - [SharedPrefrences](https://developer.android.com/training/data-storage/shared-preferences)
+ - 
