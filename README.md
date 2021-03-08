@@ -38,4 +38,7 @@ A collection of samples:
           - Applying savedInstancestate also, when screen rotation your data will not be lose.
  - [ShareApp](https://stackoverflow.com/questions/9948373/android-share-plain-text-using-intent-to-all-messaging-apps)
  - [SharedPrefrences](https://developer.android.com/training/data-storage/shared-preferences)
- - 
+ - [TabNavigation](https://developer.android.com/guide/navigation/navigation-swipe-view)
+ - [TwoActivities](https://developer.android.com/codelabs/android-training-create-an-activity?index=..%2F..%2Fandroid-training#0)
+ - [ViewModelLiveData](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-4-saving-user-data/lesson-10-storing-data-with-room/10-1-c-room-livedata-viewmodel/10-1-c-room-livedata-viewmodel.html)
+ - [YT_Integration](https://github.com/PierfrancescoSoffritti/android-youtube-player)
