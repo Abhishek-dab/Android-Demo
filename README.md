@@ -16,6 +16,13 @@ A collection of samples:
 - [GoogleSignIn](https://firebase.google.com/docs/auth/android/google-signin)
 - [ImplicitIntentTest](ImplicitIntentTest)
 - [InputControls](https://developer.android.com/codelabs/android-training-input-controls#0)
+- LoginPage
+    - Handling onClick event for all buttons
+        - When you click Login Button you will navigate to HomeScreen
+         - When you click Register Button you will navigate to Registration Screen
+         - Data Parsing From Login Screen, user Name to Home Screen
+          - Handling user validation avoid null values.
+            
 - [MenusPickers](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-2-user-experience/lesson-4-user-interaction/4-3-c-menus-and-pickers/4-3-c-menus-and-pickers.html)
 - [NavigationMenu](https://material.io/components/navigation-drawer)
 - [Notifications](https://developer.android.com/training/notify-user/build-notification)
@@ -43,3 +50,4 @@ A collection of samples:
  - [TwoActivities](https://developer.android.com/codelabs/android-training-create-an-activity?index=..%2F..%2Fandroid-training#0)
  - [ViewModelLiveData](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-4-saving-user-data/lesson-10-storing-data-with-room/10-1-c-room-livedata-viewmodel/10-1-c-room-livedata-viewmodel.html)
  - [YT_Integration](https://github.com/PierfrancescoSoffritti/android-youtube-player)
+ 
