@@ -16,6 +16,7 @@ A collection of samples:
 - [GoogleSignIn](https://firebase.google.com/docs/auth/android/google-signin)
 - [ImplicitIntentTest](ImplicitIntentTest)
 - [InputControls](https://developer.android.com/codelabs/android-training-input-controls#0)
+- [LocationDetails](https://github.com/jyaganeh/android-google-maps-demo)
 - LoginPage
     - Handling onClick event for all buttons
         - When you click Login Button you will navigate to HomeScreen
