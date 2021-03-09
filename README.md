@@ -12,6 +12,7 @@ A collection of samples:
       - Applying savedInstancestate so that when screen rotates your data will be saved
       
 - [EmailPasswordAuthentication](https://firebase.google.com/docs/auth/android/email-link-auth)
+- [ExplicitIntent](https://developer.android.com/guide/components/intents-filters#:~:text=An%20explicit%20intent%20is%20one,other%20intent%20properties%20are%20optional.)
 - [GoogleSignIn](https://firebase.google.com/docs/auth/android/google-signin)
 - [ImplicitIntentTest](ImplicitIntentTest)
 - [InputControls](https://developer.android.com/codelabs/android-training-input-controls#0)
